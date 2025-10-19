@@ -38,7 +38,7 @@ function Sidebar({ genres, activeGenre, counts }) {
         </div>
       </nav>
 
-      <div className="mt-auto pt-6 px-6">
+      {/* <div className="mt-auto pt-6 px-6">
         <div className="text-xs text-gray-900">
           Powered by
           <br />
@@ -51,7 +51,7 @@ function Sidebar({ genres, activeGenre, counts }) {
             Cloudflare
           </a>
         </div>
-      </div>
+      </div> */}
     </aside>
   );
 }
